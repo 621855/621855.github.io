@@ -13,7 +13,12 @@ body{
    padding: 0;
    margin: 40px auto 0 auto;
 }
-
+.footer Contacto{
+    color: white;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
 .footer{
     
     position: absolute;
