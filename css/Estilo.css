@@ -21,7 +21,8 @@ h1{
 
 }
 .Contacto svg{
-    width: auto;
-height: auto;
+    width: 3px;
+height: 3px;
 color: white;
+    text-align: center;
 }
