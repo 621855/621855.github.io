@@ -4,4 +4,7 @@ body{
 .footer{
     height: 1px;
     background-color: rgb(255, 254, 251);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
