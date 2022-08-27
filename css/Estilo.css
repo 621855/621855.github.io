@@ -1,9 +1,15 @@
 body{
     background-color: #1b2a4e;
 }
+.linea{
+    height: 1px;
+    background-color: rgb(255, 254, 251);
+}
 .footer{
     height: 1px;
     background-color: rgb(255, 254, 251);
     position: absolute;
-    
+    bottom: 0;
+    width: 100%;
+
 }
