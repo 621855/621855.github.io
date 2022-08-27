@@ -1,13 +1,13 @@
 body{
     background-color: #1b2a4e;
 }
-h1{
+footer h1{
     color: white;
     text-align: center;
     width: 5px;
     height: 50px;
 }
-.linea{
+.footer linea{
     border-top: 1px solid white;
  min-height: 1px;
    padding: 0;
