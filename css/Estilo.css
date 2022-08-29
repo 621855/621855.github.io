@@ -8,6 +8,9 @@ body{
     color: white;
    
 }
+.Contenido{
+    justify-content: center;
+}
 .linea{
     border-top: 1px solid white;
  min-height: 1px;
